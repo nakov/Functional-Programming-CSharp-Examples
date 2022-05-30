@@ -1,4 +1,4 @@
-# Functional-Programming-CSharp-Examples
+# Functional Programming with C# - Examples
 
 C# Functional Programming - Examples
 
