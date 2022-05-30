@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public delegate int Aggregate(int x, int y);
 
-class Program
+class Examples
 {
     static void Main()
     {

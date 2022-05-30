@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-internal class FilterByAge
+class FilterByAge
 {
     class Person
     {

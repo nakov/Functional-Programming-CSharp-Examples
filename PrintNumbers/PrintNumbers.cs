@@ -25,7 +25,7 @@ class PrintNumbers
         Console.WriteLine(nums.Sum());
     }
 
-    private static int[] StringToNums(string input, Func<string, int> parseFunc)
+    static int[] StringToNums(string input, Func<string, int> parseFunc)
     {
         return input.Split(", ").Select(parseFunc).ToArray();
     }
